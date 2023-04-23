@@ -26,5 +26,5 @@ My name is Pham Thi Kim Nhung. I graduated from Budapest Business School, majori
 </a>  
 <a href="https://github.com/phamthikimnhung/COVID_Portfolio_Project_SQL/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=COVID_Portfolio_Project_SQL&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=COVID_Portfolio_Project_SQL&theme=dracula" />
 </a> 
