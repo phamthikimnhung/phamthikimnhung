@@ -10,7 +10,7 @@ My name is Pham Thi Kim Nhung. I graduated from Budapest Business School, majori
 
 <a href="https://github.com/phamthikimnhung/Global-Superstore-Sales_Power-BI/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Global-Superstore-Sales_Power-BI&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Global-Superstore-Sales_Power-BI&theme=cobalt" />
 </a>    
 <a href="https://github.com/phamthikimnhung/OS-Collection-Performance_Power-BI/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
