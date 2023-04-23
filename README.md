@@ -12,23 +12,23 @@ My name is Pham Thi Kim Nhung. I graduated from Budapest Business School, majori
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Global-Superstore-Sales_Power-BI&theme=radical" />
 </a>    
-<a href="https://github.com/phamthikimnhung/Collection-Analysis/">
+<a href="https://github.com/phamthikimnhung/OS-Collection-Performance_Power-BI/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Collection-Analysis&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=OS-Collection-Performance_Power-BI&theme=merko" />
 </a>  
-<a href="https://github.com/phamthikimnhung/Superstore-Sales-and-Expansion-strategy/">
+<a href="https://github.com/phamthikimnhung/Customer-Churn-Analysis_Power-BI/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Superstore-Sales-and-Expansion-strategy&theme=gruvbox"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Customer-Churn-Analysis_Power-BI&theme=gruvbox"/>
 </a>  
 <a href="https://github.com/phamthikimnhung/RFM-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=RFM-Analysis&theme=tokyonight" />
 </a>  
-<a href="https://github.com/phamthikimnhung/Explore-Ecommerce-Dataset/">
+<a href="https://github.com/phamthikimnhung/Exploring-E-Commerce-Industry_Project-SQL/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Explore-Ecommerce-Dataset&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Exploring-E-Commerce-Industry_Project-SQL&theme=onedark" />
 </a>  
-<a href="https://github.com/phamthikimnhung/Cohort-Analysis-How-to-Analyze-User-Retention/">
+<a href="https://github.com/phamthikimnhung/COVID_Portfolio_Project_SQL/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Cohort-Analysis-How-to-Analyze-User-Retention&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=COVID_Portfolio_Project_SQL&theme=cobalt" />
 </a> 
