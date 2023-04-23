@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Pham Thi Kim Nhung. I graduated from Budapest Business School, majoring in Business Intelligence and Decision. I am interested in the following topics: Data is the oil field of the 21st century, how do they create big impact for businesses?<br>
+My name is Pham Thi Kim Nhung. <br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kim-nhung/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/phamthikimnhung)
