@@ -6,7 +6,7 @@ My name is Pham Thi Kim Nhung. I graduated from Budapest Business School, majori
 
 
 
-![Nhung's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iposoon&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Nhung's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phamthikimnhung&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/iposoon/User-Churn-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
