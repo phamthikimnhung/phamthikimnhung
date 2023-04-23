@@ -8,9 +8,9 @@ My name is Pham Thi Kim Nhung. I graduated from Budapest Business School, majori
 
 ![Nhung's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phamthikimnhung&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/phamthikimnhung/User-Churn-Analysis/">
+<a href="https://github.com/phamthikimnhung/Global-Superstore-Sales_Power-BI/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=User-Churn-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Global-Superstore-Sales_Power-BI&theme=radical" />
 </a>    
 <a href="https://github.com/phamthikimnhung/Collection-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
