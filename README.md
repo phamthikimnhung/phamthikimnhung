@@ -20,10 +20,6 @@ My name is Pham Thi Kim Nhung. I graduated from Budapest Business School, majori
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Customer-Churn-Analysis_Power-BI&theme=gruvbox"/>
 </a>  
-<a href="https://github.com/phamthikimnhung/RFM-Analysis/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=RFM-Analysis&theme=tokyonight" />
-</a>  
 <a href="https://github.com/phamthikimnhung/Exploring-E-Commerce-Industry_Project-SQL/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Exploring-E-Commerce-Industry_Project-SQL&theme=onedark" />
