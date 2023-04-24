@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-Hi. Call me Kim. I am interested in working intensely with data and its importance to businesses. Like the "new oil" of the digital age, with immense potential value for those who can extract and use it effectively.  <br>
+Hi. Call me Kim. I am interested in working intensely with data and its importance to businesses. Data in the 21st Century is like oil, for those who see Data's fundamental value and learn to extract and use it there will be huge rewards..  <br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kim-nhung/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/phamthikimnhung)
