@@ -1,4 +1,4 @@
-### WELCOME TO MY PAGE 👋👋👋
+### THANK YOU FOR COMING. WELCOME TO MY PAGE 👋👋👋
 Hi! Call me Kim. <br>
 I am interested in working intensely with data and its importance to businesses. Data in the 21st Century is like oil, for those who see Data's fundamental value and learn to extract and use it there will be huge rewards. <br>
 ## 📫 How to reach me: 
