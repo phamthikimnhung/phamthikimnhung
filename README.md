@@ -1,6 +1,6 @@
 ### THANK YOU FOR COMING. WELCOME TO MY PAGE 👋👋👋
 Hi! Call me Kim. <br>
-I am interested in working intensely with data and its importance to businesses. Data in the 21st Century is like oil, for those who see Data's fundamental value and learn to extract and use it there will be huge rewards. <br>
+ I am keenly interested in working extensively with data and its significance for businesses. In the 21st century, data is akin to oil, and those who recognize its fundamental value and effectively extract and apply it will reap substantial rewards. <br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kim-nhung/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/phamthikimnhung)
