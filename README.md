@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-Hi! Thanks for coming. <br>
+Hi, Thanks for coming!br>
 I am keenly interested in working extensively with data and its significance for businesses. <br>
 In the 21st century, data is akin to oil, and those who recognize its fundamental value and effectively extract and apply it will reap substantial rewards. <br>
 ## 📫 How to reach me: 
