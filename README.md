@@ -10,7 +10,7 @@ In the 21st century, data is akin to oil, and those who recognize its fundamenta
 
 ![Nhung's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phamthikimnhung&show_icons=true&theme=nightowl&hide=contribs,prs,issues)
 
-<a href="https://github.com/phamthikimnhung/Superstore-Expansion-Strategy_Power_BI">
+<a href="https://github.com/phamthikimnhung/Superstore-Expansion-Strategy_PowerBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Superstore-Expansion-Strategy_PowerBI&theme=cobalt" />
 </a>    
