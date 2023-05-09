@@ -12,7 +12,7 @@ In the 21st century, data is akin to oil, and those who recognize its fundamenta
 
 <a href="https://github.com/phamthikimnhung/Global-Superstore-Expansion-Strategy_Power-BI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Global Superstore: Expansion & Strategy &theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Global-Superstore-Expansion-Strategy_Power-BI&theme=cobalt" />
 </a>    
 <a href="https://github.com/phamthikimnhung/OS-Collection-Performance_Power-BI/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
