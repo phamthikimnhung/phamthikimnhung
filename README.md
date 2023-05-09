@@ -14,7 +14,7 @@ In the 21st century, data is akin to oil, and those who recognize its fundamenta
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Superstore-Expansion-Selection_Power-BI&theme=cobalt" />
 </a>    
-<a href="https://github.com/phamthikimnhung/OS-Collection-Performance_Power-BI/">
+<a href="https://github.com/phamthikimnhung/Debt-Recovery-Efficiency_Power_BI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo= Debt-Recovery-Efficiency_Power_BI &theme=merko" />
 </a>  
