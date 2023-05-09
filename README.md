@@ -22,9 +22,9 @@ In the 21st century, data is akin to oil, and those who recognize its fundamenta
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Telecom-Customer-Churn_PowerBI&theme=gruvbox"/>
 </a>  
-<a href="https://github.com/phamthikimnhung/Exploring-E-Commerce-Industry_Project-SQL/">
+<a href="https://github.com/phamthikimnhung/eCommerce-Exploration-SQL">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=Exploring-E-Commerce-Industry_Project-SQL&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamthikimnhung&repo=eCommerce-Exploration-SQL &theme=onedark" />
 </a>  
 <a href="https://github.com/phamthikimnhung/COVID_Portfolio_Project_SQL/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
